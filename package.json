@@ -1,0 +1,16 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "A real time chat application using Socket Io ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikhil Siwach",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "moment-timezone": "^0.5.45",
+    "socket.io": "^4.7.4"
+  }
+}
